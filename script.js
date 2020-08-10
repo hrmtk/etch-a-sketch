@@ -25,31 +25,3 @@ function reset() {
 }
 
 main();
-
-
-// btn.addEventListener("click", )
-// btn.addEventListener('click', () => {
-//   alert("enjoy!");
-// });
-// btn.addEventListener('click', function(e) {
-//   e.target.style.background = 'blue';
-// })
-
-// $(".grid-item").hover(function() {
-//   $(this).css("background", "black");
-// }
-// });
-
-// let cells = document.querySelector('.grid-item');
-// // cells.addEventListener('mouseover', (e) => {
-// //   e.target.style.backgroundColor = 'green';
-// //   //cells.setAttribute("style", "background-color: blue;")
-// // });
-//
-// function hovering(e) {
-//   //if (e.propertyName !== 'transform') return;
-// //  this.classList.remove('playing');
-//   this.style.backgroundColor = 'green';
-// }
-//
-// cellss.forEach(cell => cell.addEventListener('mouseover', hovering));
